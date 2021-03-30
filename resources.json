@@ -1,35 +1,35 @@
 {
   "Alabama":
           [
-            {"Place": "Dale County Rescue Mission", "Address":"182 Martin St, Ozark, AL 36360"},
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place":  "","Address": ""}
+            {"Place": "Dale County Rescue Mission", "Address":"182 Martin St, Ozark, AL 36360", "Type" : "Shelter", "Shelter Type": "Men's"},
+            {"Place": "Jimmie Hale Mission Center", "Address": "3420 2nd Avenue North, Birmingham, AL 35222", "Type":  "Shelter", "Shelter Type": "Men's"},
+            {"Place": "Faith Crusade Montgomery Rescue Mission", "Address": "17 Mildred Street, Montgomery, AL 36104", "Type": "Food", "Shelter Type": "N/A"},
+            {"Place": "Family Promise of Coastal Alabama Mobile", "Address": "1260 Dauphin Street, Mobile, AL 36604", "Type": "Shelter", "Shelter Type": "Family"},
+            {"Place": "Downtown Rescue Mission", "Address": "1400 Evangel Drive, Huntsville, AL 35816", "Type": "Shelter", "Shelter Type": "Family"}
           ],
   "Alaska":
           [
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place":  "","Address": ""}
+            {"Place": "Downtown Soup Kitchen Hope Center", "Address": "240 E 3rd Ave, Anchorage, AK 99501", "Type": "Food", "Shelter Type": "N/A"},
+            {"Place": "Fairbanks Rescue Mission", "Address": "723 27th Ave, Fairbanks, AK 99701", "Type": "Shelter", "Shelter Type": "Family"},
+            {"Place": "Friendship Mission", "Address": "14639 N Kenai Spur Hwy, Kenai, AK 99611", "Type": "Shelter", "Shelter Type": "Men's"},
+            {"Place": "Brother Francis Shelter Kodiak", "Address": "410 Thorsheim Street, Kodiak, AK 99615", "Type": "Shelter", "Shelter Type": "Family"},
+            {"Place": "Salvation Army McKinnell Shelter", "Address": "1712 A St, Anchorage, AK 99501", "Type": "Shelter", "Shelter Type": "Family"}
           ],
   "Arizona":
           [
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place":  "","Address": ""}
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
           ],
   "Arkansas":
           [
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""},
-            {"Place": "", "Address": ""}
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
           ]
 
 
