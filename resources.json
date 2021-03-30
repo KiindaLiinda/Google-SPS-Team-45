@@ -1,0 +1,38 @@
+{
+  "Alabama":
+          [
+            {"Place": "Dale County Rescue Mission", "Address":"182 Martin St, Ozark, AL 36360"},
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place":  "","Address": ""}
+          ],
+  "Alaska":
+          [
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place":  "","Address": ""}
+          ],
+  "Arizona":
+          [
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place":  "","Address": ""}
+          ],
+  "Arkansas":
+          [
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""},
+            {"Place": "", "Address": ""}
+          ]
+
+
+
+
+}
