@@ -17,11 +17,11 @@
           ],
   "Arizona":
           [
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
+            {"Place": "HomeBase Youth Services - Shelter for Youth", "Address": "931 E Devonshire Ave, Phoenix, AZ 85014", "Type": "Shelter", "Shelter Type": "Youth"},
+            {"Place": "Family Promise of Greater Phoenix", "Address": "7447 E Earil Dr, Scottsdale, AZ 85251", "Type": "Shelter", "Shelter Type": "Family"},
+            {"Place": "Paz De Cristo", "Address": "424 W Broadway Rd, Mesa, AZ 85210", "Type": "Food", "Shelter Type": "N/A"},
+            {"Place": "Primavera Foundation - Men's Center", "Address": "200 E Benson Hwy, Tuscon, AZ 85713", "Type": "Shelter", "Shelter Type": "Men's"},
+            {"Place": "Brian Garcia Welcome Center", "Address": "206 S 12th Ave, Phoenix, AZ 85007", "Type": "Shelter", "Shelter Type": "Adult"}
           ],
   "Arkansas":
           [
