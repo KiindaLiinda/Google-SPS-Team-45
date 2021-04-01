@@ -8,3 +8,15 @@ function initMap() {
     zoom: 8,
   });
 }
+
+//Dictionary containing all of the locations
+var locations[
+  //Homeless Shelters
+  {
+    position: new google.maps.LatLng(34.096254028668056, -118.31193411838731),
+    type: 'Shelter',
+    name: "PATH - Hollywood",
+    address: "5627 Fernwood Ave, Los Angeles, CA 90028",
+    phone: "(323)960-333",
+  }
+]
