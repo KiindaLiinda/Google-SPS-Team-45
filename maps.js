@@ -4,6 +4,11 @@ let map;
 //Create the intial map to view the Greater Los Angeles Area
 function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
+ Mapdisplay
+    center: { lat: 34.0361, lng: -118.2437 }, zoom: 10,
+  });
+}
+=======
     center: { lat: 34.0522, lng: 118.2437 },
     zoom: 8,
   });
@@ -20,3 +25,4 @@ var locations[
     phone: "(323)960-333",
   }
 ]
+ main
