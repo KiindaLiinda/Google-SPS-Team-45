@@ -80,8 +80,12 @@ nav ul .search-icon .icon span{
   flex: 4;
  }
 }
-#map{
-  border: thin solid red;
-  height: 500px;
-  width: 500px;
+@media screen{
+  #map{
+    border: thick solid #659DBD;
+    margin: auto;
+    height: 350px;
+    width: 50%;
+  }
+  
 }
