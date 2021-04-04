@@ -7,4 +7,8 @@ function initMap(): void {
     center: { lat: 34.0522, lng: 118.2437 },
     zoom: 8,
   });
+ markers
 }
+=======
+}
+ main
