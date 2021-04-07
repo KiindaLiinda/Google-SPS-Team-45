@@ -26,7 +26,7 @@
   "Los Angeles":
           [
             {"Place": "Los Angeles Mission", "Address": "303 E 5th St, Los Angeles, CA 90013", "Type": "Shelter", "Shelter Type": "N/A"},
-            {"Place": "", "Address": "Union Rescue Mission", "Type": "545 San Pedro St, Los Angeles, CA 90013", "Shelter Type": "N/A"},
+            {"Place":":Union Rescue Mission", "Address": "545 San Pedro St, Los Angeles, CA 90013","Type": "Shelter" , "Shelter Type": "N/A"},
             {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
             {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
             {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
