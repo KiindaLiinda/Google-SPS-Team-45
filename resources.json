@@ -23,7 +23,7 @@
             {"Place": "Primavera Foundation - Men's Center", "Address": "200 E Benson Hwy, Tuscon, AZ 85713", "Type": "Shelter", "Shelter Type": "Men's"},
             {"Place": "Brian Garcia Welcome Center", "Address": "206 S 12th Ave, Phoenix, AZ 85007", "Type": "Shelter", "Shelter Type": "Adult"}
           ],
-  "Arkansas":
+  "Los Angeles":
           [
             {"Place": "Women and Children First", "Address": "Post Office Box, Little Rock, AR 72203", "Type": "Shelter", "Shelter Type": "Women"},
             {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
@@ -61,6 +61,9 @@
           [
             {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
             {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+
+            {"Place": "Los Angeles Mission", "Address": "303 E 5th St, Los Angeles, CA 90013", "Type": "Shelter", "Shelter Type": "N/A"},
+            {"Place": "", "Address": "Union Rescue Mission", "Type": "545 San Pedro St, Los Angeles, CA 90013", "Shelter Type": "N/A"},
             {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
             {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
             {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
