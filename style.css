@@ -87,5 +87,13 @@ nav ul .search-icon .icon span{
     height: 350px;
     width: 50%;
   }
-  
+
+}
+#rlcontent{
+  background-color: #7a7a7a;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
 }
