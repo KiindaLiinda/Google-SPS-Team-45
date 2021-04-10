@@ -88,6 +88,18 @@ nav ul .search-icon .icon span{
       width: 50%;
     }
   }
+
+
+}
+#rlcontent{
+  background-color: #7a7a7a;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
   @media screen {
     .sheltersDiv{
       background-color: #557A95;
@@ -134,3 +146,4 @@ nav ul .search-icon .icon span{
     }
   }
   
+
