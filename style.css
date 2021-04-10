@@ -80,13 +80,15 @@ nav ul .search-icon .icon span{
   flex: 4;
  }
 }
-@media screen{
-  #map{
-    border: thick solid #659DBD;
-    margin: auto;
-    height: 350px;
-    width: 50%;
+  @media screen{
+    #map{
+      border: thick solid #8D8741;
+      margin: auto;
+      height: 350px;
+      width: 50%;
+    }
   }
+
 
 }
 #rlcontent{
@@ -97,3 +99,51 @@ nav ul .search-icon .icon span{
   padding-bottom: 20px;
   text-align: center;
 }
+
+  @media screen {
+    .sheltersDiv{
+      background-color: #557A95;
+      border: thick solid white;
+      margin: auto;
+      display: inline-block;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      height:200px;
+      width: 25%;
+      float: left;
+      margin-bottom: 30px;
+    }   
+  }
+  @media screen{
+    .donations{
+      background-color: #557A95;
+      border: thick solid white;
+      margin: auto;
+      display: inline-block;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      height:200px;
+      width: 25%;
+      float: right;
+      margin-bottom: 30px;
+    }
+  }
+  @media screen{
+    .about{
+      background-color: #557A95;
+      border: thick solid white;
+      margin: auto;
+      display: inline-block;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      height:200px;
+      width: 25%;
+      float: right;
+      clear: both;
+    }
+  }
+  
+
