@@ -1,0 +1,149 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: white;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+  background: rgb(182,173,158);
+  padding: 10px 40px 10px 70px;
+  border: 1px solid rgb(182,173,158)
+}
+nav ul{
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+nav ul li.logo{
+ flex: 1;
+ font-size: 30px;
+ font-weight: 700;
+}
+nav ul div.items{
+ padding: 0 25px;
+ display: inline-flex;
+}
+nav ul div.items a:hover{
+ color:#D2D7Df;
+}
+nav ul div.items a{
+ text-decoration: none;
+ font-size: 18px;
+ padding: 0 12px;
+}
+nav ul .search-icon{
+ height: 40px;
+ width: 240px;
+ display: flex;
+ background: #f2f2f2;
+ border-radius: 5px;
+}
+nav ul .search-icon input{
+ height: 100%;
+ width: 300px;
+ border: none;
+ outline: none;
+ padding: 0 10px;
+ color: #353535;
+ font-size: 16px;
+ border-radius: 5px 0 0 5px;
+}
+nav ul .search-icon .icon{
+ height: 100%;
+ width: 40px;
+ line-height: 40px;
+ text-align: center;
+ border: 1px solid rgb(182,173,158);
+ background: #353535;
+ border-radius: 0 5px 5px 0;
+ cursor: pointer;
+}
+nav ul .search-icon .icon:hover{
+ background:#D2D7Df;
+}
+
+nav ul .search-icon .icon span{
+ color: white;
+ font-size: 18px;
+}
+@media screen and (max-width:1052px){
+ nav{
+  padding: 10px 40px 10px 0px;
+ }
+ nav ul li.logo{
+ display: none;
+ }
+ nav ul div.items{
+  flex: 4;
+ }
+}
+  @media screen{
+    #map{
+      border: thick solid #8D8741;
+      margin: auto;
+      height: 350px;
+      width: 50%;
+    }
+  }
+
+
+}
+#rlcontent{
+  background-color: #7a7a7a;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+  @media screen {
+    .sheltersDiv{
+      background-color: #557A95;
+      border: thick solid white;
+      margin: auto;
+      display: inline-block;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      height:200px;
+      width: 25%;
+      float: left;
+      margin-bottom: 30px;
+    }   
+  }
+  @media screen{
+    .donations{
+      background-color: #557A95;
+      border: thick solid white;
+      margin: auto;
+      display: inline-block;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      height:200px;
+      width: 25%;
+      float: right;
+      margin-bottom: 30px;
+    }
+  }
+  @media screen{
+    .about{
+      background-color: #557A95;
+      border: thick solid white;
+      margin: auto;
+      display: inline-block;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      height:200px;
+      width: 25%;
+      float: right;
+      clear: both;
+    }
+  }
+  
+
