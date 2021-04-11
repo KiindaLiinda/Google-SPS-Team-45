@@ -100,7 +100,7 @@ nav ul .search-icon .icon span{
       height:200px;
       width: 25%;
       float: left;
-      margin-bottom: 30px;
+      margin-bottom: 3;
     }   
   }
   @media screen{
@@ -133,4 +133,19 @@ nav ul .search-icon .icon span{
       clear: both;
     }
   }
+  @media screen{
+    .services{
+      background-color: #557A95;
+      border: thick solid white;
+      margin: auto;
+      display: inline-block;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      height:200px;
+      width: 25%;
+      float: left;
+    }
+  }
+  
   
