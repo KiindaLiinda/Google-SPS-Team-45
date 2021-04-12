@@ -10,9 +10,15 @@ let map;
 
 //Create the intial map to view the Greater Los Angeles Area
 function initMap() {
-    map = new google.maps.Map(document.getElementById("map"), {
-    center = {lat: 34.0361, lng: -118.2437},
-     zoom: 10,
+  const LA = {lat:34.0361, lng:-118.2437};
+  map = new google.maps.Map(document.getElementById("map"), {
+    zoom: 10,
+    center: LA,
+  });
+  new google.maps.Marker({
+    postion: LA,
+    map,
+    title: "Los Angeles",
   });
 }
 

@@ -82,7 +82,7 @@ nav ul .search-icon .icon span{
 }
   @media screen{
     #map{
-      border: thick solid #8D8741;
+      border: thick solid #5D5C61;
       margin: auto;
       height: 350px;
       width: 50%;
@@ -146,6 +146,17 @@ nav ul .search-icon .icon span{
       width: 25%;
       float: left;
     }
+  }
+  .Learn_More{
+    background-color:#5D5C61;
+    border: none;
+    color: white;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
   }
   
   
