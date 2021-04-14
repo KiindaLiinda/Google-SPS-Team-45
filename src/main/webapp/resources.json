@@ -1,73 +1,76 @@
 {
   "Alabama":
-          [
-            {"Place": "Dale County Rescue Mission", "Address":"182 Martin St, Ozark, AL 36360", "Type" : "Shelter", "Shelter Type": "Men's"},
-            {"Place": "Jimmie Hale Mission Center", "Address": "3420 2nd Avenue North, Birmingham, AL 35222", "Type":  "Shelter", "Shelter Type": "Men's"},
-            {"Place": "Faith Crusade Montgomery Rescue Mission", "Address": "17 Mildred Street, Montgomery, AL 36104", "Type": "Food", "Shelter Type": "N/A"},
-            {"Place": "Family Promise of Coastal Alabama Mobile", "Address": "1260 Dauphin Street, Mobile, AL 36604", "Type": "Shelter", "Shelter Type": "Family"},
-            {"Place": "Downtown Rescue Mission", "Address": "1400 Evangel Drive, Huntsville, AL 35816", "Type": "Shelter", "Shelter Type": "Family"}
-          ],
+  [
+    {"Place": "Dale County Rescue Mission", "Address":"182 Martin St, Ozark, AL 36360", "Type" : "Shelter", "Shelter Type": "Men's"},
+    {"Place": "Jimmie Hale Mission Center", "Address": "3420 2nd Avenue North, Birmingham, AL 35222", "Type":  "Shelter", "Shelter Type": "Men's"},
+    {"Place": "Faith Crusade Montgomery Rescue Mission", "Address": "17 Mildred Street, Montgomery, AL 36104", "Type": "Food", "Shelter Type": "N/A"},
+    {"Place": "Family Promise of Coastal Alabama Mobile", "Address": "1260 Dauphin Street, Mobile, AL 36604", "Type": "Shelter", "Shelter Type": "Family"},
+    {"Place": "Downtown Rescue Mission", "Address": "1400 Evangel Drive, Huntsville, AL 35816", "Type": "Shelter", "Shelter Type": "Family"}
+  ],
   "Alaska":
-          [
-            {"Place": "Downtown Soup Kitchen Hope Center", "Address": "240 E 3rd Ave, Anchorage, AK 99501", "Type": "Food", "Shelter Type": "N/A"},
-            {"Place": "Fairbanks Rescue Mission", "Address": "723 27th Ave, Fairbanks, AK 99701", "Type": "Shelter", "Shelter Type": "Family"},
-            {"Place": "Friendship Mission", "Address": "14639 N Kenai Spur Hwy, Kenai, AK 99611", "Type": "Shelter", "Shelter Type": "Men's"},
-            {"Place": "Brother Francis Shelter Kodiak", "Address": "410 Thorsheim Street, Kodiak, AK 99615", "Type": "Shelter", "Shelter Type": "Family"},
-            {"Place": "Salvation Army McKinnell Shelter", "Address": "1712 A St, Anchorage, AK 99501", "Type": "Shelter", "Shelter Type": "Family"}
-          ],
+  [
+    {"Place": "Downtown Soup Kitchen Hope Center", "Address": "240 E 3rd Ave, Anchorage, AK 99501", "Type": "Food", "Shelter Type": "N/A"},
+    {"Place": "Fairbanks Rescue Mission", "Address": "723 27th Ave, Fairbanks, AK 99701", "Type": "Shelter", "Shelter Type": "Family"},
+    {"Place": "Friendship Mission", "Address": "14639 N Kenai Spur Hwy, Kenai, AK 99611", "Type": "Shelter", "Shelter Type": "Men's"},
+    {"Place": "Brother Francis Shelter Kodiak", "Address": "410 Thorsheim Street, Kodiak, AK 99615", "Type": "Shelter", "Shelter Type": "Family"},
+    {"Place": "Salvation Army McKinnell Shelter", "Address": "1712 A St, Anchorage, AK 99501", "Type": "Shelter", "Shelter Type": "Family"}
+  ],
   "Arizona":
-          [
-            {"Place": "HomeBase Youth Services - Shelter for Youth", "Address": "931 E Devonshire Ave, Phoenix, AZ 85014", "Type": "Shelter", "Shelter Type": "Youth"},
-            {"Place": "Family Promise of Greater Phoenix", "Address": "7447 E Earil Dr, Scottsdale, AZ 85251", "Type": "Shelter", "Shelter Type": "Family"},
-            {"Place": "Paz De Cristo", "Address": "424 W Broadway Rd, Mesa, AZ 85210", "Type": "Food", "Shelter Type": "N/A"},
-            {"Place": "Primavera Foundation - Men's Center", "Address": "200 E Benson Hwy, Tuscon, AZ 85713", "Type": "Shelter", "Shelter Type": "Men's"},
-            {"Place": "Brian Garcia Welcome Center", "Address": "206 S 12th Ave, Phoenix, AZ 85007", "Type": "Shelter", "Shelter Type": "Adult"}
-          ],
-  "Los Angeles":
-          [
-            {"Place": "Women and Children First", "Address": "Post Office Box, Little Rock, AR 72203", "Type": "Shelter", "Shelter Type": "Women"},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
-          ],
-  "California":
-          [
-            {"Place": "Bridge to Home", "Address": "23031 Drayton St. Santa Clarita, CA 91350", "Phone Number": "", "Type": "Shelter", "Shelter Type": "Adult", "Website": "btohome.org"},
-            {"Place": "Hathaway-Sycamores", "Address": "2933 N. El Nido Drive, Altadena, CA 91001", "Phone Number": "", "Type": "Shelter", "Shelter Type": "Youth", "Website": "hathaway-sycamores.org"},
-            {"Place": "SRO Housing Corporation", "Address": "517 San Julian St., Los Angeles, CA 90013", "Phone Number": "213-229-9640", "Type": "Shelter", "Shelter Type": "Adult", "Website": "srohousing.org"},
-            {"Place": "Covenant House California", "Address": "1325 N. Western Ave., Los Angeles, CA 90027", "Phone Number": "323-461-3131", "Type": "Shelter", "Shelter Type": "Youth", "Website": "covenanthousecalifornias.org"},
-            {"Place": "Youth Emerging Stronger", "Address": "1754 Taft Ave., Los Angeles, CA 90028", "Phone Number":"323-467-8466", "Type": "Shelter", "Shelter Type": "Youth", "Website": "youthemergingstronger.org"},
-            {"Place": "Los Angeles Mission", "Address": "303 E 5th St, Los Angeles, CA 90013", "Phone Number": "213-629-1227", "Type": "Shelter", "Shelter Type": "Adult", "Website": "losangelesmission.org"},
-            {"Place": "Union Rescue Mission", "Address": "545 San Pedro St., Los Angeles, CA 90013", "Phone Number": "213-347-6300", "Type": "Shelter", "Shelter Type": "Adult", "Website": "urm.org"},
-            {"Place": "PATH Hollywood", "Address": "5627 Fernwood Ave, Los Angeles, CA 90028", "Phone Number": "323-960-3333", "Type": "Shelter", "Shelter Type": "Adult", "Website": "epath.org"},
-            {"Place": "Family Promise of the Verdugos", "Address": "700 N. Glenoaks Blvd., Burbank, CA 91502", "Phone Number": "818-847-1547", "Type": "Shelter", "Shelter Type": "Adult", "Website": "familypromiseverdugos.org"},
-            {"Place": "Zahn Memorial Center - Salvation Army", "Address": "832 W. James M. Wood Blvd, Los Angeles, CA 90015", "Phone Number": "213-438-1617", "Type": "Shelter", "Shelter Type": "Family", "Website": "zahn.salvationarmy.org/zahn_memorial_center_us_west/about-us"},
-            {"Place": "Ascencia - Shelter and Services", "Address": "1851 Tyburn St, Glendale, CA 91204", "Phone Number": "818-246-7900", "Type": "Shelter", "Shelter Type": "Adult", "Website": "www.ascenciaca.org"},
-            {"Place": "Gardner Street Women’s Bridge Housing Center", "Address": "1403 N Gardner St, Los Angeles, CA 90046", "Phone Number": "209-340-5990", "Type": "Shelter", "Shelter Type": "Women", "Website": "N/A"},
-            {"Place": "El Puente Bridge Housing", "Address": "711 N. Alameda Street, Los Angeles, CA 90012", "Phone Number": "310-450-4050", "Type": "Shelter", "Shelter Type": "Adult", "Website": "www.thepeopleconcern.org"},
-            {"Place": "LAFH - Los Angeles Family Housing", "Address": "7843 Lankershim Boulevard, North Hollywood, CA 91601", "Phone Number": "818-982-4091", "Type": "Shelter", "Shelter Type": "Family", "Website": "lafh.org"},
-            {"Place": "Home Again Shelter", "Address": "315 North A Street, Oxnard, CA 93030", "Phone Number": "805-487-1234", "Type": "Shelter", "Shelter Type": "Adult", "Website": "www.sanfernandovalleyrescuemission.org"}
-          ],
-  "Colorado":
-          [
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
-          ],
-  "Conneticut":
-          [
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+  [
+    {"Place": "HomeBase Youth Services - Shelter for Youth", "Address": "931 E Devonshire Ave, Phoenix, AZ 85014", "Type": "Shelter", "Shelter Type": "Youth"},
+    {"Place": "Family Promise of Greater Phoenix", "Address": "7447 E Earil Dr, Scottsdale, AZ 85251", "Type": "Shelter", "Shelter Type": "Family"},
+    {"Place": "Paz De Cristo", "Address": "424 W Broadway Rd, Mesa, AZ 85210", "Type": "Food", "Shelter Type": "N/A"},
+    {"Place": "Primavera Foundation - Men's Center", "Address": "200 E Benson Hwy, Tuscon, AZ 85713", "Type": "Shelter", "Shelter Type": "Men's"},
+    {"Place": "Brian Garcia Welcome Center", "Address": "206 S 12th Ave, Phoenix, AZ 85007", "Type": "Shelter", "Shelter Type": "Adult"},
+    {"Place": "Vista Colina Emergency Family Shelter", "Address": "1050 W Mountain View Rd, Phoenix, AZ 85021", "Phone Number": "602-944-0960", "Type": "Shelter", "Shelter Type": "Family", "Website": "https://www.azhousinginc.org/vista-colina.html"},
+    {"Place": "", "Address": "", "Phone Number": "", "Type": "", "Shelter Type": "", "Website": ""},
+    {"Place": "", "Address": "", "Phone Number": "", "Type": "", "Shelter Type": "", "Website": ""},
+    {"Place": "", "Address": "", "Phone Number": "", "Type": "", "Shelter Type": "", "Website": ""},
+    {"Place": "", "Address": "", "Phone Number": "", "Type": "", "Shelter Type": "", "Website": ""}
 
-            {"Place": "Los Angeles Mission", "Address": "303 E 5th St, Los Angeles, CA 90013", "Type": "Shelter", "Shelter Type": "N/A"},
-            {"Place":":Union Rescue Mission", "Address": "545 San Pedro St, Los Angeles, CA 90013","Type": "Shelter" , "Shelter Type": "N/A"},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
-            {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
-          ]
+  ],
+  "Arkansas":
+  [
+    {"Place": "Women and Children First", "Address": "Post Office Box, Little Rock, AR 72203", "Type": "Shelter", "Shelter Type": "Women"},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
+  ],
+  "California":
+  [
+    {"Place": "Bridge to Home", "Address": "23031 Drayton St. Santa Clarita, CA 91350", "Phone Number": "", "Type": "Shelter", "Shelter Type": "Adult", "Website": "btohome.org"},
+    {"Place": "Hathaway-Sycamores", "Address": "2933 N. El Nido Drive, Altadena, CA 91001", "Phone Number": "", "Type": "Shelter", "Shelter Type": "Youth", "Website": "hathaway-sycamores.org"},
+    {"Place": "SRO Housing Corporation", "Address": "517 San Julian St., Los Angeles, CA 90013", "Phone Number": "213-229-9640", "Type": "Shelter", "Shelter Type": "Adult", "Website": "srohousing.org"},
+    {"Place": "Covenant House California", "Address": "1325 N. Western Ave., Los Angeles, CA 90027", "Phone Number": "323-461-3131", "Type": "Shelter", "Shelter Type": "Youth", "Website": "covenanthousecalifornias.org"},
+    {"Place": "Youth Emerging Stronger", "Address": "1754 Taft Ave., Los Angeles, CA 90028", "Phone Number":"323-467-8466", "Type": "Shelter", "Shelter Type": "Youth", "Website": "youthemergingstronger.org"},
+    {"Place": "Los Angeles Mission", "Address": "303 E 5th St, Los Angeles, CA 90013", "Phone Number": "213-629-1227", "Type": "Shelter", "Shelter Type": "Adult", "Website": "losangelesmission.org"},
+    {"Place": "Union Rescue Mission", "Address": "545 San Pedro St., Los Angeles, CA 90013", "Phone Number": "213-347-6300", "Type": "Shelter", "Shelter Type": "Adult", "Website": "urm.org"},
+    {"Place": "PATH Hollywood", "Address": "5627 Fernwood Ave, Los Angeles, CA 90028", "Phone Number": "323-960-3333", "Type": "Shelter", "Shelter Type": "Adult", "Website": "epath.org"},
+    {"Place": "Family Promise of the Verdugos", "Address": "700 N. Glenoaks Blvd., Burbank, CA 91502", "Phone Number": "818-847-1547", "Type": "Shelter", "Shelter Type": "Adult", "Website": "familypromiseverdugos.org"},
+    {"Place": "Zahn Memorial Center - Salvation Army", "Address": "832 W. James M. Wood Blvd, Los Angeles, CA 90015", "Phone Number": "213-438-1617", "Type": "Shelter", "Shelter Type": "Family", "Website": "zahn.salvationarmy.org/zahn_memorial_center_us_west/about-us"},
+    {"Place": "Ascencia - Shelter and Services", "Address": "1851 Tyburn St, Glendale, CA 91204", "Phone Number": "818-246-7900", "Type": "Shelter", "Shelter Type": "Adult", "Website": "www.ascenciaca.org"},
+    {"Place": "Gardner Street Women’s Bridge Housing Center", "Address": "1403 N Gardner St, Los Angeles, CA 90046", "Phone Number": "209-340-5990", "Type": "Shelter", "Shelter Type": "Women", "Website": "N/A"},
+    {"Place": "El Puente Bridge Housing", "Address": "711 N. Alameda Street, Los Angeles, CA 90012", "Phone Number": "310-450-4050", "Type": "Shelter", "Shelter Type": "Adult", "Website": "www.thepeopleconcern.org"},
+    {"Place": "LAFH - Los Angeles Family Housing", "Address": "7843 Lankershim Boulevard, North Hollywood, CA 91601", "Phone Number": "818-982-4091", "Type": "Shelter", "Shelter Type": "Family", "Website": "lafh.org"},
+    {"Place": "Home Again Shelter", "Address": "315 North A Street, Oxnard, CA 93030", "Phone Number": "805-487-1234", "Type": "Shelter", "Shelter Type": "Adult", "Website": "www.sanfernandovalleyrescuemission.org"}
+  ],
+  "Colorado":
+  [
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
+  ],
+  "Connecticut":
+  [
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""},
+    {"Place": "", "Address": "", "Type": "", "Shelter Type": ""}
+  ]
 
 
 }
