@@ -16,7 +16,7 @@
 
     <!-- Project-specific properties -->
     <exec.mainClass>com.google.sps.ServerMain</exec.mainClass>
-    <googleCloudProjectId>lgarcia-sps-spring21</googleCloudProjectId>
+    <googleCloudProjectId>spring21-sps-45</googleCloudProjectId>
   </properties>
 
   <dependencies>
@@ -47,7 +47,7 @@
     </dependency>
    </dependencies>
 
-  
+
 
   <build>
     <plugins>
