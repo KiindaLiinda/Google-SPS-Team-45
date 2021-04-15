@@ -7,8 +7,10 @@
     <link rel = "stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" >
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="maps.js"></script> <!-- contains the funtion of the map-->
-    <script src = "locationgrabber.js"></script>
+
+
 
 </head>
 <body> <!--whole content in the body -->
@@ -52,9 +54,10 @@
     <button class = "dropdown-button">Choose a Location</button>
 
     <div class = "dropdown-content">
-        <a id = "LA" onclick="showServerLocationOnMap()">Los Angeles</a>
-        <a id = "Montgomery" onclick="showServerLocationOnMap()">Montgomery</a>
-        <a id = "Phoenix" onclick="showServerLocationOnMap()">Phoenix</a>
+        <a id = "LA" onclick="setCenterLA();">Los Angeles</a>
+        <a id = "Montgomery" onclick="setCenterAL();">Montgomery</a>
+        <a id = "Phoenix" onclick="setCenterAZ();">Phoenix</a>
+        <a id = "New York" onclick="setCenterNY();">New York</a>
 
     </div>
 </div>
