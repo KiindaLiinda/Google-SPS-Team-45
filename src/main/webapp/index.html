@@ -1,51 +1,75 @@
 <!DOCTYPE html>
 <html lang="en" dir = "ltr">
-<head> 
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Resources Available</title>
     <link rel = "stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" >
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="maps.js"></script> <!-- contains the funtion of the map-->
+
+
 
 </head>
 <body> <!--whole content in the body -->
-   <nav> 
-       <ul> <!--unordered list-->
-           <li class = "logo">We Help</li> <!--list items-->
-           <li class ="btn"><span class ="fa fa-bars"></span></li>
-           <div class = "items">
-               <li><a href= "#">Home</a></li>
-               <li><a href="#">About</a></li>
-               <li><a href="#">Services</a></li>
-               <li><a href="#">Shelters</a></li>
-               <li><a href="#">Contact</a></li>
-           </div>
-           <li class = "search-icon">
-                <input type = "search" placeholder="Search">
-                <label class = "icon">
-                    <span class = "fa fa-search"><span>
-                </label>
-           </li>
-       </ul>
-   </nav>
+<nav>
+    <ul> <!--unordered list-->
+        <li class = "logo">We Help</li> <!--list items-->
+        <li class ="btn"><span class ="fa fa-bars"></span></li>
+        <div class = "items">
+            <li><a href= "#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Shelters</a></li>
+            <li><a href="#">Contact</a></li>
+        </div>
+        <li class = "search-icon">
+            <input type = "search" placeholder="Search">
+            <label class = "icon">
+                <span class = "fa fa-search"></span>
+            </label>
+        </li>
+    </ul>
+</nav>
 
-   <div class = "sheltersDiv">
-       <h3>Shelters</h3>
-        <p>random text</p>
-   </div>
-   <div class = "donations">
-       <h3>How to Help</h3>
-   </div>
-   <div class = "about">
-       
-   </div>
+<div class = "sheltersDiv">
+    <h3>Shelters</h3>
+    <p>random text</p>
 
-   <!--maps here-->
-   <div id = "map"> </div>
-   <script async
-   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByFi1oKneINgzT4QiURhfl3xQqMIUPHuk&callback=initMap">
-    </script>
+    <p></p>
+
+</div>
+
+<div class = "donations">
+    <h3>How to Help</h3>
+</div>
+
+<div class = "about">
+
+</div>
+
+<div class = "dropdown">
+    <button class = "dropdown-button">Choose a Location</button>
+
+    <div class = "dropdown-content">
+        <a id = "LA" onclick="setCenterLA();">Los Angeles</a>
+        <a id = "Montgomery" onclick="setCenterAL();">Montgomery</a>
+        <a id = "Phoenix" onclick="setCenterAZ();">Phoenix</a>
+        <a id = "New York" onclick="setCenterNY();">New York</a>
+
+    </div>
+</div>
+
+<p id = "city-container"></p>
+
+<!--maps here-->
+<div id = "map"> </div>
+<script async
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByFi1oKneINgzT4QiURhfl3xQqMIUPHuk&callback=initMap">
+</script>
+
+
 </body>
 </html>
